@@ -7,3 +7,5 @@ Verdicts: `measured` (traced to a real measurement), `distorted` (real source, w
 | # | Claim | Verdict |
 |---|---|---|
 | [0001](0001-8-second-attention-span.md) | Human attention span is 8 seconds, shorter than a goldfish | no-measurement-found |
+| [0002](0002-mehrabian-7-38-55.md) | Communication is 7% words, 38% tone, 55% body language | distorted |
+| [0003](0003-eight-spiders-a-year.md) | We swallow 8 spiders a year in our sleep | no-measurement-found |
